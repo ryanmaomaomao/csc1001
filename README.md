@@ -1,5 +1,6 @@
-# csc1001
-A covid-19 tracker
+# A covid-19 tracker
+
+A crawler for project of CSC1001
 
 Operating system: Mac OS 10
 
